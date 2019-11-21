@@ -6,4 +6,5 @@ package com.javakc;
  * @date 2019/11/21 16:33
  */
 public class GitConfig2 {
+    //## 注释
 }
